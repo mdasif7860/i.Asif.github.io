@@ -1,0 +1,20 @@
+@media screen and (max-width: 1200px){
+    #header{
+        left: -300px;
+    }
+    .mobile-nav-toggle{
+        display: none;
+    }
+    .active-icon{
+        display: block;
+    }
+    #hero-section{
+        background-attachment: local;
+    }
+    #main{
+        margin-left: 0px;
+    }
+    #footer-section{
+        left: -300px;
+    }
+}
